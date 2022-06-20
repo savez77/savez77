@@ -1,5 +1,5 @@
 # :space_invader:Hi, I'm Savin:space_invader: #
-* Aspiring Python developer based in India.
+* Aspiring Python/JavaScript developer based in India.
 * Currently learning a variety of modern technology stacks.
 
 
