@@ -2,7 +2,7 @@
 * Aspiring Python/JavaScript developer based in India.
 * Currently learning a variety of modern technology stacks.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/savez77.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/savez77" target="_blank"><img alt="TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/savez77.png" /></a>
 
 ## :busts_in_silhouette:Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savin-a-9b2469219/) 
